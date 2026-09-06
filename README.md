@@ -199,4 +199,9 @@ plt.show()
 # RESULT:
  Thus, the given data successfully performed Feature Encoding and Feature Tranformation
 
-       
+# SUMMARY
+The given dataset was successfully loaded, cleaned, and processed using various Feature Encoding and Feature Transformation techniques.
+Categorical features were converted into numerical form using Ordinal, Label, One-Hot, Binary, and Target Encoding methods.
+Numerical features were transformed using Log, Reciprocal, Square Root, Box-Cox, Yeo-Johnson, and Quantile transformations to reduce skewness and improve data distribution.
+Skewness analysis and Q-Q plots were used to evaluate the effectiveness of the transformations.
+Thus, the experiment successfully demonstrates how encoding and transformation techniques prepare raw data for effective statistical analysis and machine learning models.
